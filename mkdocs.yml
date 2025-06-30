@@ -1,0 +1,26 @@
+site_name: Croftos Futurista
+theme:
+  name: material
+  palette:
+    scheme: slate  # Fondo oscuro
+    primary: blue
+    accent: blue
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: assets/logo_croftos_futurista.png  # Opcional, si tienes uno PNG
+  favicon: assets/favicon.ico              # Opcional
+
+nav:
+  - Inicio: index.md
+  - Mods:
+      - Create: mods/Create.md
+      - Alex's Mobs: mods/Alexsmobs.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
