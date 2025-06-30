@@ -14,8 +14,177 @@ theme:
 nav:
   - Inicio: index.md
   - Mods:
-      - Create: mods/Create.md
+      - Administración:
+          - AdminArsenal: mods/AdminArsenal.md
+          - Badmobs: mods/Badmobs.md
+          - CreateRecipe: mods/CreateRecipe.md
+          - CreateRecycle: mods/CreateRecycle.md
+          - Customcredits: mods/Customcredits.md
+          - Custom Item Attributes: mods/CustomitemattributesForge.md
+          - Custom NPCs: mods/Customnpcs.md
+          - CustomvillagertradesForge: mods/CustomvillagertradesForge.md
+          - Ftbbackups: mods/Ftbbackups.md
+          - Hideexperimentalwarning: mods/Hideexperimentalwarning.md
+          - ItemObliteratorNeoforgeMc: mods/ItemObliteratorNeoforgeMc.md
+          - RecipeGenerator: mods/RecipeGenerator.md
+          - Setworldspawnpoint: mods/Setworldspawnpoint.md
+          - Structurecontrol: mods/Structurecontrol.md
+          - Tacticalmovement: mods/Tacticalmovement.md
+          - Tfmg: mods/Tfmg.md
+          - TruEEndingV: mods/TruEEndingV.md
+          - WorldeditMod: mods/WorldeditMod.md
+          - WorldeditItems: mods/WorldeditItems.md
+      - AiImprovements: mods/AiImprovements.md
+      - Alex's Delight: mods/Alexsdelight.md
       - Alex's Mobs: mods/Alexsmobs.md
+      - Alex's Mobs Interaction: mods/Alexsmobsinteraction.md
+      - Amendments: mods/Amendments.md
+      - Appleskin: mods/AppleskinForgeMc.md
+      - Automobility: mods/Automobility.md
+      - Auudio: mods/AuudioForge.md
+      - Badpoles: mods/Badpoles.md
+      - Batman Mod Patch: mods/BatmanModPatchForge.md
+      - Beefix: mods/Beefix.md
+      - Better Combat: mods/BettercombatForge.md
+      - Better Farmers Combat: mods/Betterfarmerscombat.md
+      - Better Than Mending: mods/Betterthanmending.md
+      - Better Dogs X Doggy Talents Next: mods/BetterDogsXDoggyTalentsNextVForge.md
+      - Bogos Binted: mods/BogosBinted.md
+      - Camera: mods/CameraForge.md
+      - Carry On: mods/CarryonForge.md
+      - Chunky: mods/Chunky.md
+      - Clockwork: mods/Clockwork.md
+      - Clumps: mods/ClumpsForge.md
+      - Cobweb: mods/CobwebForge.md
+      - Comforts: mods/ComfortsForge.md
+      - Configurable Extra Mob Drops: mods/Configurableextramobdrops.md
+      - Copycats: mods/CopycatsMc.md
+      - Cosmic Horizons: mods/CosmicHorizons.md
+      - Cosmos Unbound: mods/Cosmosunbound.md
+      - Cosmos Uncharted: mods/Cosmosuncharted.md
+      - Craftable Discs: mods/CraftableDiscsForge.md
+      - Crafting Tweaks: mods/CraftingtweaksForge.md
+      - CraftTweaker: mods/CrafttweakerForge.md
+      - Create: mods/Create.md
+      - Create - New Age: mods/CreateNewAgeForge.md
+      - Create - Stuff Additions: mods/CreateStuffAdditions.md
+      - Create - Addition: mods/Createaddition.md
+      - Create - Big Boy: mods/Createbb.md
+      - Create - Big Cannons: mods/Createbigcannons.md
+      - Create - Diesel Generators: mods/Createdieselgenerators.md
+      - Create - Immersive Tacz: mods/Createimmersivetacz.md
+      - Create - Tacz Auto: mods/Createtaczauto.md
+      - Create - Teleporters: mods/Createteleporters.md
+      - Create - Enchantment Industry: mods/CreateEnchantmentIndustry.md
+      - Create - Refined Recipes: mods/CreateRefinedRecipes.md
+      - Create - The Air Wars: mods/CreateTheAirWars.md
+      - Creeper Overhaul: mods/Creeperoverhaul.md
+      - Croaker: mods/Croaker.md
+      - Dandadan Version: mods/Dandadanver.md
+      - Doggy Talents Next: mods/Doggytalentsnext.md
+      - Drippy Loading Screen: mods/DrippyloadingscreenForge.md
+      - Dynamic Crosshair: mods/Dynamiccrosshair.md
+      - Dynamic Trees: mods/Dynamictrees.md
+      - Dynamic Trees Plus: mods/Dynamictreesplus.md
+      - Dynamic Trees Quark: mods/Dynamictreesquark.md
+      - Easy Anvils: mods/EasyanvilsV.md
+      - Easy Magic: mods/EasymagicV.md
+      - Easy Shulker Boxes: mods/EasyshulkerboxesV.md
+      - Embeddium: mods/EmbeddiumMc.md
+      - Embeddium Plus: mods/Embeddiumplus.md
+      - Emotecraft: mods/EmotecraftForMc.md
+      - Enchantment Transfer: mods/Enchantmenttransfer.md
+      - Endergetic: mods/Endergetic.md
+      - EnderiTE Mod: mods/Enderitemod.md
+      - Enderman Overhaul: mods/EndermanoverhaulForge.md
+      - Extermination: mods/ExterminationForge.md
+      - FancyMenu: mods/FancymenuForge.md
+      - Farmer's Delight: mods/Farmersdelight.md
+      - Faz Roleplay Clothes: mods/Fazroleplayclothes.md
+      - Fishing Real: mods/FishingrealForge.md
+      - Fusion: mods/Fusion.md
+      - Gun Durability: mods/Gundurability.md
+      - Hamsters: mods/HamstersForge.md
+      - Hand to Hand: mods/Handtohand.md
+      - Harvest With Ease: mods/HarvestWithEaseForge.md
+      - InControl: mods/Incontrol.md
+      - Inventory Sorter: mods/Inventorysorter.md
+      - Ironman Patch: mods/IronmanByYoFaddaPatchForge.md
+      - Items Displayed: mods/ItemsdisplayedforgeV.md
+      - JEI (Just Enough Items): mods/Jei.md
+      - JourneyMap: mods/Journeymap.md
+      - JRFTL: mods/Jrftl.md
+      - Just Better Recipes: mods/Justbetterrecipes.md
+      - KubeJS Delight: mods/Kubejsdelight.md
+      - LCTech: mods/Lctech.md
+      - Lightman's Currency: mods/Lightmanscurrency.md
+      - Lightman's Discord: mods/Lightmansdiscord.md
+      - MCEF: mods/McefForge.md
+      - MCW Doors: mods/McwDoors.md
+      - MCW Fences: mods/McwFences.md
+      - MCW Furniture: mods/McwFurniture.md
+      - MCW Lights: mods/McwLights.md
+      - MCW Paintings: mods/McwPaintings.md
+      - MCW Roofs: mods/McwRoofs.md
+      - MCW Stairs: mods/McwStairs.md
+      - MCW Trapdoors: mods/McwTrapdoors.md
+      - MCW Windows: mods/McwWindows.md
+      - Mekanism: mods/Mekanism.md
+      - Mekanism - Covers: mods/Mekanismcovers.md
+      - Mekanism - Generators: mods/Mekanismgenerators.md
+      - MES: mods/Mes.md
+      - Minecraft Comes Alive: mods/MinecraftComesAlive.md
+      - ModernFix: mods/ModernfixForgeMc.md
+      - Modern Life: mods/Modernlife.md
+      - Modern Train Parts: mods/Moderntrainparts.md
+      - Mouse Tweaks: mods/MousetweaksForgeMc.md
+      - Moving Elevators: mods/Movingelevators.md
+      - Necronomicon: mods/NecronomiconForge.md
+      - Not Enough Recipe Book: mods/NotEnoughRecipeBookForge.md
+      - Oceanic Realms: mods/Oceanicrealms.md
+      - Opalescence: mods/Opalescence.md
+      - Parcool: mods/Parcool.md
+      - Parcool Compatibility Addon: mods/ParcoolCompatibilityaddon.md
+      - Pet Cemetery: mods/PetCemetery.md
+      - Pickable Pets: mods/Pickablepets.md
+      - Polymorph: mods/PolymorphForge.md
+      - Quark: mods/Quark.md
+      - RC Mod: mods/Rcmod.md
+      - Realism: mods/RealismForge.md
+      - Realistic Bees: mods/Realisticbees.md
+      - Refined Polymorph: mods/Refinedpolymorph.md
+      - Refined Storage: mods/Refinedstorage.md
+      - Save and Load Inventories: mods/Saveandloadinventories.md
+      - Save Your Pets: mods/Saveyourpets.md
+      - Simple Tomb: mods/Simpletomb.md
+      - Sophisticated Backpacks: mods/Sophisticatedbackpacks.md
+      - Sound Physics Remastered: mods/SoundPhysicsRemasteredForge.md
+      - Spacecat Custom Professions: mods/SpacecatcustomprofessionsForge.md
+      - Spanish Delight: mods/Spanishdelight.md
+      - Speedforce Patch: mods/SpeedforceByYofaddaPatchForge.md
+      - Starlance: mods/Starlance.md
+      - Starter Kit: mods/Starterkit.md
+      - Starter Structure: mods/Starterstructure.md
+      - StWqc: mods/StWqc.md
+      - Tacz: mods/Tacz.md
+      - Tacz Tweaks: mods/TaczTweaks.md
+      - Tacz NPC: mods/TaczNpc.md
+      - The Outer End: mods/Theouterend.md
+      - The Ravenous: mods/TheRavenous.md
+      - Tom's Storage: mods/TomsStorage.md
+      - Trackwork: mods/Trackwork.md
+      - Valkyrien Skies: mods/Valkyrienskies.md
+      - Villager Point Card: mods/Villagerpointcard.md
+      - Vintage Improvements: mods/Vintageimprovements.md
+      - Voice Chat: mods/VoicechatForge.md
+      - VsOrbit: mods/VsOrbit.md
+      - Watut: mods/WatutForge.md
+      - WebDisplays: mods/Webdisplays.md
+      - WeAddon: mods/WeAddon.md
+      - Yuushya: mods/Yuushya.md
+      - Zeta: mods/Zeta.md
+      - SecurityCraft: mods/SecuritycraftV.md
+
 
 markdown_extensions:
   - admonition
