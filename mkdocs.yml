@@ -40,54 +40,14 @@ nav:
           - Starter Kit: mods/Starterkit.md
           - Starter Structure: mods/Starterstructure.md
           - Save and Load Inventories: mods/Saveandloadinventories.md
+          - Lightman's Discord: mods/Lightmansdiscord.md
           - KubeJS Delight: mods/Kubejsdelight.md
           - Tfmg: mods/Tfmg.md
           - TruEEndingV: mods/TruEEndingV.md
           - WorldeditMod: mods/WorldeditMod.md
           - WorldeditItems: mods/WorldeditItems.md
           - WeAddon: mods/WeAddon.md
-      - ❗ Extras:
-          - AiImprovements: mods/AiImprovements.md
-          - Amendments: mods/Amendments.md
-          - Appleskin: mods/AppleskinForgeMc.md
-          - Badpoles: mods/Badpoles.md
-          - Carry On: mods/CarryonForge.md
-          - Clumps: mods/ClumpsForge.md
-          - Dynamic Crosshair: mods/Dynamiccrosshair.md
-          - Dynamic Trees: mods/Dynamictrees.md
-          - Dynamic Trees Plus: mods/Dynamictreesplus.md
-          - Dynamic Trees Quark: mods/Dynamictreesquark.md
-          - Easy Anvils: mods/EasyanvilsV.md
-          - Easy Magic: mods/EasymagicV.md
-          - Easy Shulker Boxes: mods/EasyshulkerboxesV.md
-          - Fishing Real: mods/FishingrealForge.md
-          - Realistic Bees: mods/Realisticbees.md
-          - Refined Polymorph: mods/Refinedpolymorph.md
-          - Sound Physics Remastered: mods/SoundPhysicsRemasteredForge.md
-          - What Are They Up To: mods/WatutForge.md
-      - 🧑‍🍳 Cocina:
-          - Alex's Delight: mods/Alexsdelight.md
-          - ⭐Farmer's Delight: mods/Farmersdelight.md
-          - Spanish Delight: mods/Spanishdelight.md
-      - 🧟 Mobs/Animales:
-          - ⭐Alex's Mobs: mods/Alexsmobs.md
-          - Alex's Mobs Interaction: mods/Alexsmobsinteraction.md
-          - Doggy Talents Next: mods/Doggytalentsnext.md
-          - Better Dogs X Doggy Talents Next: mods/BetterDogsXDoggyTalentsNextVForge.md
-          - Bogos Binted: mods/BogosBinted.md
-          - Creeper Overhaul: mods/Creeperoverhaul.md
-          - Croaker: mods/Croaker.md
-          - Enderman Overhaul: mods/EndermanoverhaulForge.md
-          - Extermination: mods/ExterminationForge.md
-          - Hamsters: mods/HamstersForge.md
-          - Oceanic Realms: mods/Oceanicrealms.md
-          - Half-Life - Redstone Cascade: mods/Rcmod.md
-          - 🐕 Mascotas:
-              - Pet Cemetery: mods/PetCemetery.md
-              - Pickable Pets: mods/Pickablepets.md
-              - Save Your Pets: mods/Saveyourpets.md
-          - The Ravenous: mods/TheRavenous.md
-      - 🚇 Transporte/Movimiento:
+      - 🚇 Cómo moverse:
           - ⭐Automobility: mods/Automobility.md
           - 🪐 Viaje Espacial:
               - ⭐Cosmic Horizons: mods/CosmicHorizons.md
@@ -96,7 +56,7 @@ nav:
               - Cosmos Uncharted: mods/Cosmosuncharted.md
           - ⭐Parcool: mods/Parcool.md
           - Parcool Compatibility Addon: mods/ParcoolCompatibilityaddon.md
-          - Trackwork: mods/Trackwork.md
+          - Trackwork: mods/Trackwork.md      
       - 🏡 Construcción:
           - Copycats: mods/CopycatsMc.md
           - Items Displayed: mods/ItemsdisplayedforgeV.md
@@ -116,42 +76,7 @@ nav:
           - ⭐Quark: mods/Quark.md
           - Woodworks Quark Compat: mods/StWqc.md
           - Woodworks: mods/Woodworks.md
-          - Yuushya: mods/Yuushya.md
-      - 🦹‍♀️ Habilidades:
-          - Batman Mod: mods/BatmanModPatchForge.md
-          - Dandadan: mods/Dandadanver.md
-          - Ironman Mod: mods/IronmanByYoFaddaPatchForge.md
-          - Speedforce Mod: mods/SpeedforceByYofaddaPatchForge.md
-      - ⚔️ Combate:
-          - ⭐Better Combat: mods/BettercombatForge.md
-          - Better Farmers Combat: mods/Betterfarmerscombat.md
-      - 🍿 Entretenimiento:
-          - Camera: mods/CameraForge.md
-          - Emotecraft: mods/EmotecraftForMc.md
-          - Faz Roleplay Clothes: mods/Fazroleplayclothes.md
-          - Voice Chat: mods/VoicechatForge.md
-          - WebDisplays: mods/Webdisplays.md
-      - 🤖 Técnico:
-          - Clockwork: mods/Clockwork.md
-          - Valkyrien Skies: mods/Valkyrienskies.md
-          - VsOrbit: mods/VsOrbit.md
-      - 🛐 Utiles:
-          - Better Than Mending: mods/Betterthanmending.md
-          - Comforts: mods/ComfortsForge.md
-          - Craftable Discs: mods/CraftableDiscsForge.md
-          - Crafting Tweaks: mods/CraftingtweaksForge.md
-          - Craftable Discs: mods/CraftableDiscsForge.md
-          - Enchantment Transfer: mods/Enchantmenttransfer.md
-          - Hand to Hand: mods/Handtohand.md
-          - Harvest With Ease: mods/HarvestWithEaseForge.md
-          - Inventory Sorter: mods/Inventorysorter.md
-          - JEI (Just Enough Items): mods/Jei.md
-          - JourneyMap: mods/Journeymap.md
-          - Just Another Rotten Flesh to Leather: mods/Jrftl.md
-          - Just Better Recipes: mods/Justbetterrecipes.md
-          - ⭐Minecraft Comes Alive: mods/MinecraftComesAlive.md
-          - Mouse Tweaks: mods/MousetweaksForgeMc.md
-          - ⭐Simple Tomb: mods/Simpletomb.md
+          - Yuushya: mods/Yuushya.md      
       - ⚙️ Create:
           - ⭐Create: mods/Create.md
           - Create - New Age: mods/CreateNewAgeForge.md
@@ -171,37 +96,113 @@ nav:
           - Modern Train Parts: mods/Moderntrainparts.md
           - Create - Realism: mods/RealismForge.md
           - Trackwork: mods/Trackwork.md
-          - Vintage Improvements: mods/Vintageimprovements.md
-      - ⏱️ Rendimiento:
-          - Embeddium: mods/EmbeddiumMc.md
-          - Embeddium Plus: mods/Embeddiumplus.md
-          - Not Enough Recipe Book: mods/NotEnoughRecipeBookForge.md
-          - Polymorph: mods/PolymorphForge.md
-      - 🐲 El End:
-          - Endergetic: mods/Endergetic.md
-          - Enderite Mod: mods/Enderitemod.md
-          - Moog's End Structures: mods/Mes.md
-          - The Outer End: mods/Theouterend.md
-      - 🛒 Economía:
-          - Lightman's Currency Tech: mods/Lctech.md
-          - ⭐Lightman's Currency: mods/Lightmanscurrency.md
-          - Lightman's Discord: mods/Lightmansdiscord.md
-          - Villager Point Card: mods/Villagerpointcard.md
+          - Vintage Improvements: mods/Vintageimprovements.md      
+      - 🧰 Almacenamiento:
+          - Refined Storage: mods/Refinedstorage.md
+          - ⭐Sophisticated Backpacks: mods/Sophisticatedbackpacks.md
+          - Tom's Storage: mods/TomsStorage.md
       - 💻 Tech:
           - Mekanism: mods/Mekanism.md
           - Mekanism - Covers: mods/Mekanismcovers.md
           - Mekanism - Generators: mods/Mekanismgenerators.md
           - SecurityCraft: mods/SecuritycraftV.md
-      - 🧰 Almacenamiento:
-          - Refined Storage: mods/Refinedstorage.md
-          - ⭐Sophisticated Backpacks: mods/Sophisticatedbackpacks.md
-          - Tom's Storage: mods/TomsStorage.md
-      - 🔫 Tacz/Pistolas:
-          - ⭐Tacz: mods/Tacz.md
-          - Tacz Tweaks: mods/TaczTweaks.md
-          - Tacz NPC: mods/TaczNpc.md
-          - Tacz Tactical Movement: mods/Tacticalmovement.md
-          - Tacz Gun Durability: mods/Gundurability.md
+      - 🛒 Economía:
+          - Lightman's Currency Tech: mods/Lctech.md
+          - ⭐Lightman's Currency: mods/Lightmanscurrency.md
+          - Villager Point Card: mods/Villagerpointcard.md
+      - 🛐 Utiles:
+          - Better Than Mending: mods/Betterthanmending.md
+          - Comforts: mods/ComfortsForge.md
+          - Craftable Discs: mods/CraftableDiscsForge.md
+          - Crafting Tweaks: mods/CraftingtweaksForge.md
+          - Craftable Discs: mods/CraftableDiscsForge.md
+          - Enchantment Transfer: mods/Enchantmenttransfer.md
+          - Hand to Hand: mods/Handtohand.md
+          - Harvest With Ease: mods/HarvestWithEaseForge.md
+          - Inventory Sorter: mods/Inventorysorter.md
+          - JEI (Just Enough Items): mods/Jei.md
+          - JourneyMap: mods/Journeymap.md
+          - Just Another Rotten Flesh to Leather: mods/Jrftl.md
+          - Just Better Recipes: mods/Justbetterrecipes.md
+          - ⭐Minecraft Comes Alive: mods/MinecraftComesAlive.md
+          - Mouse Tweaks: mods/MousetweaksForgeMc.md
+          - ⭐Simple Tomb: mods/Simpletomb.md
+      - ⚔️ Combate:
+          - ⭐Better Combat: mods/BettercombatForge.md
+          - Better Farmers Combat: mods/Betterfarmerscombat.md
+          - 🔫 Tacz/Pistolas:
+              - ⭐Tacz: mods/Tacz.md
+              - Tacz Tweaks: mods/TaczTweaks.md
+              - Tacz NPC: mods/TaczNpc.md
+              - Tacz Tactical Movement: mods/Tacticalmovement.md
+              - Tacz Gun Durability: mods/Gundurability.md
+      - 🦹‍♀️ Habilidades:
+          - Batman Mod: mods/BatmanModPatchForge.md
+          - Dandadan: mods/Dandadanver.md
+          - Ironman Mod: mods/IronmanByYoFaddaPatchForge.md
+          - Speedforce Mod: mods/SpeedforceByYofaddaPatchForge.md
+      - 🐲 El End:
+          - Endergetic: mods/Endergetic.md
+          - Enderite Mod: mods/Enderitemod.md
+          - Moog's End Structures: mods/Mes.md
+          - The Outer End: mods/Theouterend.md
+      - 🧟 Mobs/Animales:
+          - ⭐Alex's Mobs: mods/Alexsmobs.md
+          - Alex's Mobs Interaction: mods/Alexsmobsinteraction.md
+          - Doggy Talents Next: mods/Doggytalentsnext.md
+          - Better Dogs X Doggy Talents Next: mods/BetterDogsXDoggyTalentsNextVForge.md
+          - Bogos Binted: mods/BogosBinted.md
+          - Creeper Overhaul: mods/Creeperoverhaul.md
+          - Croaker: mods/Croaker.md
+          - Enderman Overhaul: mods/EndermanoverhaulForge.md
+          - Extermination: mods/ExterminationForge.md
+          - Hamsters: mods/HamstersForge.md
+          - ⭐Infernal Mobs: mods/InfernalMobs.md
+          - Oceanic Realms: mods/Oceanicrealms.md
+          - Half-Life - Redstone Cascade: mods/Rcmod.md
+          - 🐕 Mascotas:
+              - Pet Cemetery: mods/PetCemetery.md
+              - Pickable Pets: mods/Pickablepets.md
+              - Save Your Pets: mods/Saveyourpets.md
+          - The Ravenous: mods/TheRavenous.md
+      - 🧑‍🍳 Cocina:
+          - Alex's Delight: mods/Alexsdelight.md
+          - ⭐Farmer's Delight: mods/Farmersdelight.md
+          - Spanish Delight: mods/Spanishdelight.md
+      - 🍿 Entretenimiento:
+          - Camera: mods/CameraForge.md
+          - Emotecraft: mods/EmotecraftForMc.md
+          - Faz Roleplay Clothes: mods/Fazroleplayclothes.md
+          - Voice Chat: mods/VoicechatForge.md
+          - WebDisplays: mods/Webdisplays.md
+      - ❗ Extras:
+          - AiImprovements: mods/AiImprovements.md
+          - Amendments: mods/Amendments.md
+          - Appleskin: mods/AppleskinForgeMc.md
+          - Badpoles: mods/Badpoles.md
+          - Carry On: mods/CarryonForge.md
+          - Clumps: mods/ClumpsForge.md
+          - Dynamic Crosshair: mods/Dynamiccrosshair.md
+          - Dynamic Trees: mods/Dynamictrees.md
+          - Dynamic Trees Plus: mods/Dynamictreesplus.md
+          - Dynamic Trees Quark: mods/Dynamictreesquark.md
+          - Easy Anvils: mods/EasyanvilsV.md
+          - Easy Magic: mods/EasymagicV.md
+          - Easy Shulker Boxes: mods/EasyshulkerboxesV.md
+          - Fishing Real: mods/FishingrealForge.md
+          - Realistic Bees: mods/Realisticbees.md
+          - Refined Polymorph: mods/Refinedpolymorph.md
+          - Sound Physics Remastered: mods/SoundPhysicsRemasteredForge.md
+          - What Are They Up To: mods/WatutForge.md
+      - ⏱️ Rendimiento:
+          - Embeddium: mods/EmbeddiumMc.md
+          - Embeddium Plus: mods/Embeddiumplus.md
+          - Not Enough Recipe Book: mods/NotEnoughRecipeBookForge.md
+          - Polymorph: mods/PolymorphForge.md
+      - 🤖 Técnico:
+          - Clockwork: mods/Clockwork.md
+          - Valkyrien Skies: mods/Valkyrienskies.md
+          - VsOrbit: mods/VsOrbit.md
 
 
 markdown_extensions:
