@@ -13,8 +13,8 @@ theme:
 
 nav:
   - Inicio: index.md
-  - Mods:
-      - Administración:
+  - 📁 Mods:
+      - 📁 Administración:
           - AdminArsenal: mods/AdminArsenal.md
           - Auudio: mods/AuudioForge.md
           - Badmobs: mods/Badmobs.md
