@@ -23,7 +23,6 @@ Aquí encontrarás documentación y explicaciones para los mods más relevantes 
 - [Lightman's Currency](mods/Lightmanscurrency.md)
 - [Sophisticated Backpacks](mods/Sophisticatedbackpacks.md)
 - [Tacz](mods/Tacz.md)
-- [🪵 Macaws Mods](#🪵-macaws-mods) *(ver subcategoría en Construcción)*
 
 ---
 
